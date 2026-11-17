@@ -1,0 +1,70 @@
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <title>Detalle del álbum - Metal Store</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="../css/styles.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Metal+Mania&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+    <header>
+        <div>
+            <h1>
+                <a href="../index.html">Metal Store</a>
+            </h1>
+        </div>
+
+        <nav>
+            <ul>
+                <li>
+                    <a href="../index.html">
+                        <i class="fa-solid fa-house"></i>
+                        Inicio
+                    </a>
+                </li>
+
+                <li>
+                    <a href="contacto.html">
+                        <i class="fa-solid fa-envelope"></i>
+                        Contacto
+                    </a>
+                </li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <h2 id="titulo-album">Detalle del álbum</h2>
+
+        <section id="detalle-album">
+            <p>Cargando información...</p>
+        </section>
+
+        <section id="lista-temas">
+            <h2>Lista de canciones</h2>
+            <p>Buscando canciones...</p>
+        </section>
+    </main>
+
+    <!-- Modal portada -->
+    <div id="modal-portada" class="modal-overlay" role="dialog" aria-modal="true" aria-label="Portada ampliada">
+        <button class="modal-cerrar" id="modal-cerrar" aria-label="Cerrar">
+            <i class="fa-solid fa-xmark"></i>
+        </button>
+        <img id="modal-img" src="" alt="Portada ampliada">
+    </div>
+
+    <footer>
+        <p>&copy; 2026 Metal Store</p>
+        <p>Todos los derechos reservados</p>
+    </footer>
+
+    <script type="module" src="../js/album.js"></script>
+
+</body>
+</html>

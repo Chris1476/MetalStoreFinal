@@ -1,0 +1,643 @@
+body {
+    margin: 0;
+    background-color: #000;
+    font-family: Arial, sans-serif;
+
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+header {
+    background-image: 
+        linear-gradient(rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.55)),
+        url("../img/fondo-metal.jpg");
+
+    background-size: cover;
+    background-position: center;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    padding: 50px 30px;
+}
+
+header div {
+    color: white;
+    text-align: center;
+}
+
+header h1 {
+    font-family: "Metal Mania", cursive;
+    font-size: 80px;
+    margin: 0;
+    
+    -webkit-text-stroke: 0.7px #e50914;
+
+    animation: aparecer 2s ease;
+}
+
+
+@keyframes aparecer {
+    from {
+        opacity: 0;
+        transform: scale(0.7);
+    }
+
+    to {
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+
+header h1 a {
+    color: white;
+    text-decoration: none;
+}
+
+header p {
+    font-size: 20px;
+}
+
+main h2 {
+    color: white;
+    text-align: center;
+    margin-top: 30px;
+}
+
+nav ul {
+    display: flex;
+    gap: 15px;
+
+    list-style: none;
+    margin: 20px 0 0;
+    padding: 0;
+}
+
+nav a {
+    display: inline-block;
+
+    background-color: #e50914;
+    color: white;
+
+    text-decoration: none;
+    font-weight: bold;
+
+    border-radius: 8px;
+    padding: 10px 20px;
+}
+
+nav a:hover {
+    background-color: #b20710;
+}
+section {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+    gap: 24px;
+    padding: 30px 40px;
+}
+
+article {
+    background-color: #1a1a1a;
+    color: white;
+
+    padding: 15px;
+    text-align: center;
+    box-sizing: border-box;
+
+    display: flex;
+    flex-direction: column;
+    border-radius: 8px;
+    border: 1px solid #2a2a2a;
+    transition: transform 0.2s, border-color 0.2s;
+}
+
+article img {
+    width: 100%;
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+    border-radius: 4px;
+    display: block;
+}
+
+article h3 {
+    margin: 10px 0 4px;
+    font-size: 15px;
+    line-height: 1.3;
+}
+
+article p {
+    margin: 0 0 6px;
+    font-size: 13px;
+    color: #bbb;
+}
+
+article p:last-child {
+    color: #e50914;
+    font-weight: bold;
+    font-size: 15px;
+    margin-top: auto;
+    padding-top: 8px;
+}
+
+article:hover {
+    transform: scale(1.03);
+    border-color: #e50914;
+}
+
+.disco-link {
+    text-decoration: none;
+}
+
+footer {
+    background-color: #111;
+    color: white;
+    text-align: center;
+    padding: 25px;
+    margin-top: auto;
+}
+
+
+/* FORMULARIO */
+
+form {
+    width: 500px;
+    margin: 40px auto;
+    padding: 30px;
+
+    background-color: #1a1a1a;
+    color: white;
+
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+form input,
+form textarea {
+    padding: 10px;
+    border: none;
+    font-size: 16px;
+}
+
+form textarea {
+    resize: vertical;
+}
+
+form button {
+    margin-top: 10px;
+    padding: 12px;
+
+    background-color: #e50914;
+    color: white;
+
+    border-radius: 8px;
+    font-size: 16px;
+    font-weight: bold;
+
+    cursor: pointer;
+}
+
+form button:hover {
+    background-color: #b20710;
+}
+
+
+/* DETALLE DE ALBUM */
+
+#detalle-album {
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+}
+
+#detalle-album article {
+    display: flex;
+    gap: 30px;
+    align-items: flex-start;
+    width: auto;
+    max-width: 750px;
+    text-align: left;
+    background-color: #1a1a1a;
+    border: 1px solid #333;
+    border-radius: 12px;
+    padding: 25px;
+}
+
+#detalle-album article img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 8px;
+    flex-shrink: 0;
+}
+
+#detalle-album article div {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+#detalle-album article h3 {
+    font-family: "Metal Mania", cursive;
+    font-size: 28px;
+    color: #e50914;
+    margin: 0;
+}
+
+#detalle-album article p {
+    color: #ccc;
+    margin: 0;
+    font-size: 15px;
+}
+
+#detalle-album article p:first-of-type {
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+/* LISTA DE CANCIONES */
+
+#lista-temas {
+    display: block;
+    max-width: 750px;
+    margin: 0 auto;
+    padding: 10px 30px 40px;
+}
+
+#lista-temas h2 {
+    color: #e50914;
+    font-family: "Metal Mania", cursive;
+    font-size: 24px;
+    border-bottom: 1px solid #333;
+    padding-bottom: 10px;
+    margin-bottom: 15px;
+    text-align: left;
+}
+
+#lista-temas ol {
+    padding-left: 20px;
+    margin: 0;
+}
+
+#lista-temas li {
+    color: #ddd;
+    padding: 10px 8px;
+    border-bottom: 1px solid #2a2a2a;
+    font-size: 15px;
+    transition: background 0.2s;
+}
+
+#lista-temas li:hover {
+    background-color: #1a1a1a;
+    color: white;
+    border-radius: 6px;
+}
+
+#lista-temas li span {
+    color: #888;
+    font-size: 13px;
+    margin-left: 8px;
+}
+
+
+/* CARRITO - NAV CONTADOR */
+
+#nav-carrito {
+    position: relative;
+}
+
+.carrito-badge {
+    display: none;
+    position: absolute;
+    top: -8px;
+    right: -10px;
+
+    background-color: #fff;
+    color: #e50914;
+
+    font-size: 11px;
+    font-weight: bold;
+    line-height: 1;
+
+    min-width: 18px;
+    height: 18px;
+    border-radius: 50%;
+
+    align-items: center;
+    justify-content: center;
+    padding: 2px;
+}
+
+/* ===== BOTON COMPRAR ===== */
+
+.btn-comprar {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    margin-top: 15px;
+    padding: 12px 22px;
+
+    background-color: #e50914;
+    color: white;
+
+    border: none;
+    border-radius: 8px;
+    font-size: 15px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background 0.2s, transform 0.1s;
+}
+
+.btn-comprar:hover {
+    background-color: #b20710;
+    transform: scale(1.03);
+}
+
+.btn-comprar:active {
+    transform: scale(0.97);
+}
+
+/* ===== CONFIRMACION ===== */
+
+.toast {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    z-index: 1000;
+
+    background-color: #1a1a1a;
+    color: #fff;
+    border-left: 4px solid #e50914;
+
+    padding: 14px 22px;
+    border-radius: 8px;
+    font-size: 15px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+
+    opacity: 0;
+    transform: translateY(20px);
+    transition: opacity 0.3s ease, transform 0.3s ease;
+    pointer-events: none;
+}
+
+.toast i {
+    color: #e50914;
+    font-size: 18px;
+}
+
+.toast-visible {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+/* PAGINA CARRITO */
+
+#carrito-contenido {
+    display: block;
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 10px 30px;
+}
+
+.carrito-tabla {
+    width: 100%;
+    border-collapse: collapse;
+    color: #ddd;
+    font-size: 15px;
+}
+
+.carrito-tabla thead tr {
+    border-bottom: 2px solid #e50914;
+    color: #e50914;
+    text-transform: uppercase;
+    font-size: 13px;
+    letter-spacing: 0.5px;
+}
+
+.carrito-tabla th,
+.carrito-tabla td {
+    padding: 14px 10px;
+    text-align: left;
+    vertical-align: middle;
+}
+
+.carrito-tabla tbody tr {
+    border-bottom: 1px solid #2a2a2a;
+    transition: background 0.2s;
+}
+
+.carrito-tabla tbody tr:hover {
+    background-color: #1a1a1a;
+}
+
+.carrito-img {
+    width: 60px;
+    height: 60px;
+    object-fit: cover;
+    border-radius: 6px;
+}
+
+.btn-eliminar {
+    background: none;
+    border: 1px solid #555;
+    color: #aaa;
+    border-radius: 6px;
+    padding: 7px 10px;
+    cursor: pointer;
+    transition: border-color 0.2s, color 0.2s;
+}
+
+.btn-eliminar:hover {
+    border-color: #e50914;
+    color: #e50914;
+}
+
+/* RESUMEN DEL CARRITO */
+
+#carrito-resumen {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 10px 30px 50px;
+}
+
+.carrito-resumen-box {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 20px;
+    flex-wrap: wrap;
+    border-top: 1px solid #333;
+    padding-top: 20px;
+}
+
+.carrito-total {
+    color: white;
+    font-size: 20px;
+    margin: 0;
+}
+
+.carrito-total strong {
+    color: #e50914;
+    font-size: 24px;
+}
+
+.carrito-acciones {
+    display: flex;
+    gap: 12px;
+}
+
+.btn-vaciar {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 11px 20px;
+    background: none;
+    color: #aaa;
+    border: 1px solid #555;
+    border-radius: 8px;
+    font-size: 14px;
+    cursor: pointer;
+    transition: border-color 0.2s, color 0.2s;
+}
+
+.btn-vaciar:hover {
+    border-color: #e50914;
+    color: #e50914;
+}
+
+.btn-pagar {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 11px 24px;
+    background-color: #e50914;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-size: 15px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background 0.2s, transform 0.1s;
+}
+
+.btn-pagar:hover {
+    background-color: #b20710;
+    transform: scale(1.03);
+}
+
+/* CARRITO VACIO / PAGO CONFIRMADO */
+
+.carrito-vacio {
+    text-align: center;
+    padding: 60px 20px;
+    color: #888;
+}
+
+.carrito-vacio i {
+    font-size: 60px;
+    color: #333;
+    display: block;
+    margin-bottom: 20px;
+}
+
+.carrito-vacio p {
+    font-size: 18px;
+    margin: 8px 0;
+}
+
+.pago-confirmado i {
+    color: #e50914 !important;
+}
+
+.pago-confirmado p {
+    color: #ddd;
+}
+
+.btn-volver {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 11px 24px;
+    background-color: #e50914;
+    color: white;
+    text-decoration: none;
+    border-radius: 8px;
+    font-weight: bold;
+    transition: background 0.2s;
+}
+
+.btn-volver:hover {
+    background-color: #b20710;
+}
+
+/* MODAL PORTADA */
+
+.portada-clickeable {
+    cursor: zoom-in;
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.portada-clickeable:hover {
+    transform: scale(1.04);
+    box-shadow: 0 0 20px rgba(229, 9, 20, 0.5);
+}
+
+.modal-overlay {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: fixed;
+    inset: 0;
+    z-index: 2000;
+
+    background-color: rgba(0, 0, 0, 0.88);
+    backdrop-filter: blur(4px);
+
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.25s ease;
+}
+
+.modal-overlay.modal-visible {
+    opacity: 1;
+    pointer-events: all;
+}
+
+.modal-overlay img {
+    max-width: 90vw;
+    max-height: 85vh;
+    border-radius: 10px;
+
+    transform: scale(0.85);
+    transition: transform 0.25s ease;
+}
+
+.modal-overlay.modal-visible img {
+    transform: scale(1);
+}
+
+.modal-cerrar {
+    position: absolute;
+    top: 20px;
+    right: 25px;
+
+    background: none;
+    border: none;
+    color: white;
+    font-size: 32px;
+    cursor: pointer;
+    opacity: 0.7;
+    transition: opacity 0.2s, transform 0.2s;
+    line-height: 1;
+}
+
+.modal-cerrar:hover {
+    opacity: 1;
+    transform: scale(1.2);
+}

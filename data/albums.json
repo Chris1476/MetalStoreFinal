@@ -1,0 +1,1752 @@
+[
+    {
+        "id": 1,
+        "artista": "Metallica",
+        "album": "Hardwired... to Self-Destruct",
+        "imagen": "metallica.jpg",
+        "precio": 25000
+    },
+    {
+        "id": 2,
+        "artista": "Megadeth",
+        "album": "Youthanasia",
+        "imagen": "megadeth.jpg",
+        "precio": 20000
+    },
+    {
+        "id": 3,
+        "artista": "Anthrax",
+        "album": "40th Anniversary",
+        "imagen": "anthrax.jpg",
+        "precio": 30000
+    },
+    {
+        "id": 4,
+        "artista": "Five Finger Death Punch",
+        "album": "Got Your Six",
+        "imagen": "five.jpg",
+        "precio": 30000
+    },
+    {
+        "id": 5,
+        "artista": "Arch Enemy",
+        "album": "Khaos Legions",
+        "imagen": "arch.jpg",
+        "precio": 30000
+    },
+    {
+        "id": 6,
+        "artista": "Helberd",
+        "album": "Chess with the Reaper",
+        "imagen": "halberd.jpg",
+        "precio": 30000
+    },
+    {
+        "id": 7,
+        "artista": "Killswitch Engage",
+        "album": "Atonement",
+        "imagen": "kill.jpg",
+        "precio": 25000
+    },
+    {
+        "id": 8,
+        "artista": "Iron Maiden",
+        "album": "The Final Frontier",
+        "imagen": "maiden.jpg",
+        "precio": 20000
+    },
+    {
+        "id": 9,
+        "artista": "Iced Earth",
+        "album": "Dark Saga",
+        "imagen": "iced.jpg",
+        "precio": 30000
+    },
+    {
+        "id": 10,
+        "artista": "Ozzy Osbourne",
+        "album": "Black Rain",
+        "imagen": "ozzy.jpg",
+        "precio": 30000
+    },
+    {
+        "id": 11,
+        "artista": "Black Sabbath",
+        "album": "Paranoid",
+        "imagen": "sabbath_paranoid.jpg",
+        "precio": 22000
+    },
+    {
+        "id": 12,
+        "artista": "Black Sabbath",
+        "album": "Master of Reality",
+        "imagen": "sabbath_master.jpg",
+        "precio": 22000
+    },
+    {
+        "id": 13,
+        "artista": "Black Sabbath",
+        "album": "Heaven and Hell",
+        "imagen": "sabbath_heaven.jpg",
+        "precio": 22000
+    },
+    {
+        "id": 14,
+        "artista": "Metallica",
+        "album": "Master of Puppets",
+        "imagen": "metallica_master.jpg",
+        "precio": 28000
+    },
+    {
+        "id": 15,
+        "artista": "Metallica",
+        "album": "Ride the Lightning",
+        "imagen": "metallica_ride.jpg",
+        "precio": 26000
+    },
+    {
+        "id": 16,
+        "artista": "Metallica",
+        "album": "...And Justice for All",
+        "imagen": "metallica_justice.jpg",
+        "precio": 26000
+    },
+    {
+        "id": 17,
+        "artista": "Metallica",
+        "album": "The Black Album",
+        "imagen": "metallica_black.jpg",
+        "precio": 27000
+    },
+    {
+        "id": 18,
+        "artista": "Iron Maiden",
+        "album": "The Number of the Beast",
+        "imagen": "maiden_beast.jpg",
+        "precio": 24000
+    },
+    {
+        "id": 19,
+        "artista": "Iron Maiden",
+        "album": "Powerslave",
+        "imagen": "maiden_powerslave.jpg",
+        "precio": 24000
+    },
+    {
+        "id": 20,
+        "artista": "Iron Maiden",
+        "album": "Seventh Son of a Seventh Son",
+        "imagen": "maiden_seventh.jpg",
+        "precio": 24000
+    },
+    {
+        "id": 21,
+        "artista": "Iron Maiden",
+        "album": "Fear of the Dark",
+        "imagen": "maiden_fear.jpg",
+        "precio": 23000
+    },
+    {
+        "id": 22,
+        "artista": "Megadeth",
+        "album": "Rust in Peace",
+        "imagen": "megadeth_rust.jpg",
+        "precio": 27000
+    },
+    {
+        "id": 23,
+        "artista": "Megadeth",
+        "album": "Peace Sells... but Who's Buying?",
+        "imagen": "megadeth_peace.jpg",
+        "precio": 25000
+    },
+    {
+        "id": 24,
+        "artista": "Megadeth",
+        "album": "Countdown to Extinction",
+        "imagen": "megadeth_countdown.jpg",
+        "precio": 24000
+    },
+    {
+        "id": 25,
+        "artista": "Slayer",
+        "album": "Reign in Blood",
+        "imagen": "slayer_reign.jpg",
+        "precio": 26000
+    },
+    {
+        "id": 26,
+        "artista": "Slayer",
+        "album": "South of Heaven",
+        "imagen": "slayer_south.jpg",
+        "precio": 24000
+    },
+    {
+        "id": 27,
+        "artista": "Slayer",
+        "album": "Seasons in the Abyss",
+        "imagen": "slayer_seasons.jpg",
+        "precio": 24000
+    },
+    {
+        "id": 28,
+        "artista": "Pantera",
+        "album": "Vulgar Display of Power",
+        "imagen": "pantera_vulgar.jpg",
+        "precio": 27000
+    },
+    {
+        "id": 29,
+        "artista": "Pantera",
+        "album": "Far Beyond Driven",
+        "imagen": "pantera_far.jpg",
+        "precio": 26000
+    },
+    {
+        "id": 30,
+        "artista": "Pantera",
+        "album": "Cowboys from Hell",
+        "imagen": "pantera_cowboys.jpg",
+        "precio": 25000
+    },
+    {
+        "id": 31,
+        "artista": "Judas Priest",
+        "album": "Screaming for Vengeance",
+        "imagen": "priest_screaming.jpg",
+        "precio": 23000
+    },
+    {
+        "id": 32,
+        "artista": "Judas Priest",
+        "album": "Painkiller",
+        "imagen": "priest_painkiller.jpg",
+        "precio": 25000
+    },
+    {
+        "id": 33,
+        "artista": "Judas Priest",
+        "album": "British Steel",
+        "imagen": "priest_british.jpg",
+        "precio": 22000
+    },
+    {
+        "id": 34,
+        "artista": "Ozzy Osbourne",
+        "album": "Blizzard of Ozz",
+        "imagen": "ozzy_blizzard.jpg",
+        "precio": 24000
+    },
+    {
+        "id": 35,
+        "artista": "Ozzy Osbourne",
+        "album": "Diary of a Madman",
+        "imagen": "ozzy_diary.jpg",
+        "precio": 23000
+    },
+    {
+        "id": 36,
+        "artista": "Motorhead",
+        "album": "Ace of Spades",
+        "imagen": "motorhead_ace.jpg",
+        "precio": 24000
+    },
+    {
+        "id": 37,
+        "artista": "Motorhead",
+        "album": "Overkill",
+        "imagen": "motorhead_overkill.jpg",
+        "precio": 22000
+    },
+    {
+        "id": 38,
+        "artista": "Dio",
+        "album": "Holy Diver",
+        "imagen": "dio_holy.jpg",
+        "precio": 25000
+    },
+    {
+        "id": 39,
+        "artista": "Dio",
+        "album": "The Last in Line",
+        "imagen": "dio_last.jpg",
+        "precio": 23000
+    },
+    {
+        "id": 40,
+        "artista": "Dio",
+        "album": "Dream Evil",
+        "imagen": "dio_dream.jpg",
+        "precio": 22000
+    },
+    {
+        "id": 41,
+        "artista": "Alice in Chains",
+        "album": "Dirt",
+        "imagen": "aic_dirt.jpg",
+        "precio": 26000
+    },
+    {
+        "id": 42,
+        "artista": "Alice in Chains",
+        "album": "Facelift",
+        "imagen": "aic_facelift.jpg",
+        "precio": 24000
+    },
+    {
+        "id": 43,
+        "artista": "Soundgarden",
+        "album": "Superunknown",
+        "imagen": "soundgarden_super.jpg",
+        "precio": 26000
+    },
+    {
+        "id": 44,
+        "artista": "Soundgarden",
+        "album": "Badmotorfinger",
+        "imagen": "soundgarden_bad.jpg",
+        "precio": 24000
+    },
+    {
+        "id": 45,
+        "artista": "Tool",
+        "album": "Aenima",
+        "imagen": "tool_aenima.jpg",
+        "precio": 28000
+    },
+    {
+        "id": 46,
+        "artista": "Tool",
+        "album": "Lateralus",
+        "imagen": "tool_lateralus.jpg",
+        "precio": 29000
+    },
+    {
+        "id": 47,
+        "artista": "Tool",
+        "album": "Fear Inoculum",
+        "imagen": "tool_fear.jpg",
+        "precio": 32000
+    },
+    {
+        "id": 48,
+        "artista": "Lamb of God",
+        "album": "Ashes of the Wake",
+        "imagen": "log_ashes.jpg",
+        "precio": 25000
+    },
+    {
+        "id": 49,
+        "artista": "Lamb of God",
+        "album": "Sacrament",
+        "imagen": "log_sacrament.jpg",
+        "precio": 24000
+    },
+    {
+        "id": 50,
+        "artista": "Lamb of God",
+        "album": "Wrath",
+        "imagen": "log_wrath.jpg",
+        "precio": 24000
+    },
+    {
+        "id": 51,
+        "artista": "System of a Down",
+        "album": "Toxicity",
+        "imagen": "soad_toxicity.jpg",
+        "precio": 27000
+    },
+    {
+        "id": 52,
+        "artista": "System of a Down",
+        "album": "Mezmerize",
+        "imagen": "soad_mezmerize.jpg",
+        "precio": 25000
+    },
+    {
+        "id": 53,
+        "artista": "System of a Down",
+        "album": "Hypnotize",
+        "imagen": "soad_hypnotize.jpg",
+        "precio": 25000
+    },
+    {
+        "id": 54,
+        "artista": "Disturbed",
+        "album": "Down with the Sickness",
+        "imagen": "disturbed_down.jpg",
+        "precio": 24000
+    },
+    {
+        "id": 55,
+        "artista": "Disturbed",
+        "album": "Ten Thousand Fists",
+        "imagen": "disturbed_ten.jpg",
+        "precio": 23000
+    },
+    {
+        "id": 56,
+        "artista": "Disturbed",
+        "album": "Immortalized",
+        "imagen": "disturbed_immortalized.jpg",
+        "precio": 25000
+    },
+    {
+        "id": 57,
+        "artista": "Slipknot",
+        "album": "Iowa",
+        "imagen": "slipknot_iowa.jpg",
+        "precio": 26000
+    },
+    {
+        "id": 58,
+        "artista": "Slipknot",
+        "album": "Vol. 3 The Subliminal Verses",
+        "imagen": "slipknot_vol3.jpg",
+        "precio": 25000
+    },
+    {
+        "id": 59,
+        "artista": "Slipknot",
+        "album": "All Hope Is Gone",
+        "imagen": "slipknot_hope.jpg",
+        "precio": 24000
+    },
+    {
+        "id": 60,
+        "artista": "Avenged Sevenfold",
+        "album": "City of Evil",
+        "imagen": "a7x_city.jpg",
+        "precio": 26000
+    },
+    {
+        "id": 61,
+        "artista": "Avenged Sevenfold",
+        "album": "Nightmare",
+        "imagen": "a7x_nightmare.jpg",
+        "precio": 25000
+    },
+    {
+        "id": 62,
+        "artista": "Avenged Sevenfold",
+        "album": "Hail to the King",
+        "imagen": "a7x_hail.jpg",
+        "precio": 24000
+    },
+    {
+        "id": 63,
+        "artista": "Trivium",
+        "album": "Shogun",
+        "imagen": "trivium_shogun.jpg",
+        "precio": 24000
+    },
+    {
+        "id": 64,
+        "artista": "Trivium",
+        "album": "Ascendancy",
+        "imagen": "trivium_ascendancy.jpg",
+        "precio": 23000
+    },
+    {
+        "id": 65,
+        "artista": "Mastodon",
+        "album": "Leviathan",
+        "imagen": "mastodon_leviathan.jpg",
+        "precio": 26000
+    },
+    {
+        "id": 66,
+        "artista": "Mastodon",
+        "album": "Crack the Skye",
+        "imagen": "mastodon_crack.jpg",
+        "precio": 27000
+    },
+    {
+        "id": 67,
+        "artista": "Mastodon",
+        "album": "Blood Mountain",
+        "imagen": "mastodon_blood.jpg",
+        "precio": 25000
+    },
+    {
+        "id": 68,
+        "artista": "Gojira",
+        "album": "From Mars to Sirius",
+        "imagen": "gojira_mars.jpg",
+        "precio": 26000
+    },
+    {
+        "id": 69,
+        "artista": "Gojira",
+        "album": "The Way of All Flesh",
+        "imagen": "gojira_way.jpg",
+        "precio": 25000
+    },
+    {
+        "id": 70,
+        "artista": "Gojira",
+        "album": "Magma",
+        "imagen": "gojira_magma.jpg",
+        "precio": 27000
+    },
+    {
+        "id": 71,
+        "artista": "Death",
+        "album": "Symbolic",
+        "imagen": "death_symbolic.jpg",
+        "precio": 28000
+    },
+    {
+        "id": 72,
+        "artista": "Death",
+        "album": "Human",
+        "imagen": "death_human.jpg",
+        "precio": 27000
+    },
+    {
+        "id": 73,
+        "artista": "Cannibal Corpse",
+        "album": "Tomb of the Mutilated",
+        "imagen": "cc_tomb.jpg",
+        "precio": 25000
+    },
+    {
+        "id": 74,
+        "artista": "Behemoth",
+        "album": "The Apostasy",
+        "imagen": "behemoth_apostasy.jpg",
+        "precio": 26000
+    },
+    {
+        "id": 75,
+        "artista": "Behemoth",
+        "album": "Evangelion",
+        "imagen": "behemoth_evangelion.jpg",
+        "precio": 27000
+    },
+    {
+        "id": 76,
+        "artista": "Opeth",
+        "album": "Blackwater Park",
+        "imagen": "opeth_blackwater.jpg",
+        "precio": 28000
+    },
+    {
+        "id": 77,
+        "artista": "Opeth",
+        "album": "Ghost Reveries",
+        "imagen": "opeth_ghost.jpg",
+        "precio": 27000
+    },
+    {
+        "id": 78,
+        "artista": "Dream Theater",
+        "album": "Images and Words",
+        "imagen": "dt_images.jpg",
+        "precio": 28000
+    },
+    {
+        "id": 79,
+        "artista": "Dream Theater",
+        "album": "Metropolis Pt. 2: Scenes from a Memory",
+        "imagen": "dt_metropolis.jpg",
+        "precio": 30000
+    },
+    {
+        "id": 80,
+        "artista": "Dream Theater",
+        "album": "A Change of Seasons",
+        "imagen": "dt_change.jpg",
+        "precio": 26000
+    },
+    {
+        "id": 81,
+        "artista": "Sepultura",
+        "album": "Roots",
+        "imagen": "sepultura_roots.jpg",
+        "precio": 24000
+    },
+    {
+        "id": 82,
+        "artista": "Sepultura",
+        "album": "Chaos A.D.",
+        "imagen": "sepultura_chaos.jpg",
+        "precio": 23000
+    },
+    {
+        "id": 83,
+        "artista": "In Flames",
+        "album": "Come Clarity",
+        "imagen": "inflames_come.jpg",
+        "precio": 24000
+    },
+    {
+        "id": 84,
+        "artista": "In Flames",
+        "album": "Colony",
+        "imagen": "inflames_colony.jpg",
+        "precio": 23000
+    },
+    {
+        "id": 85,
+        "artista": "Children of Bodom",
+        "album": "Follow the Reaper",
+        "imagen": "cob_follow.jpg",
+        "precio": 24000
+    },
+    {
+        "id": 86,
+        "artista": "Children of Bodom",
+        "album": "Hate Crew Deathroll",
+        "imagen": "cob_hate.jpg",
+        "precio": 23000
+    },
+    {
+        "id": 87,
+        "artista": "Dimmu Borgir",
+        "album": "Puritanical Euphoric Misanthropia",
+        "imagen": "dimmu_puri.jpg",
+        "precio": 26000
+    },
+    {
+        "id": 88,
+        "artista": "Dimmu Borgir",
+        "album": "Death Cult Armageddon",
+        "imagen": "dimmu_death.jpg",
+        "precio": 25000
+    },
+    {
+        "id": 89,
+        "artista": "Nightwish",
+        "album": "Oceanborn",
+        "imagen": "nightwish_ocean.jpg",
+        "precio": 24000
+    },
+    {
+        "id": 90,
+        "artista": "Nightwish",
+        "album": "Once",
+        "imagen": "nightwish_once.jpg",
+        "precio": 25000
+    },
+    {
+        "id": 91,
+        "artista": "Nightwish",
+        "album": "Dark Passion Play",
+        "imagen": "nightwish_dark.jpg",
+        "precio": 26000
+    },
+    {
+        "id": 92,
+        "artista": "Within Temptation",
+        "album": "The Heart of Everything",
+        "imagen": "wt_heart.jpg",
+        "precio": 24000
+    },
+    {
+        "id": 93,
+        "artista": "Evanescence",
+        "album": "Fallen",
+        "imagen": "evanescence_fallen.jpg",
+        "precio": 24000
+    },
+    {
+        "id": 94,
+        "artista": "Rammstein",
+        "album": "Sehnsucht",
+        "imagen": "rammstein_sehnsucht.jpg",
+        "precio": 26000
+    },
+    {
+        "id": 95,
+        "artista": "Rammstein",
+        "album": "Mutter",
+        "imagen": "rammstein_mutter.jpg",
+        "precio": 25000
+    },
+    {
+        "id": 96,
+        "artista": "Five Finger Death Punch",
+        "album": "The Wrong Side of Heaven Vol. 1",
+        "imagen": "ffdp_wrong.jpg",
+        "precio": 26000
+    },
+    {
+        "id": 97,
+        "artista": "Killswitch Engage",
+        "album": "The End of Heartache",
+        "imagen": "kse_end.jpg",
+        "precio": 24000
+    },
+    {
+        "id": 98,
+        "artista": "Hatebreed",
+        "album": "Perseverance",
+        "imagen": "hatebreed_perseverance.jpg",
+        "precio": 22000
+    },
+    {
+        "id": 99,
+        "artista": "Suicide Silence",
+        "album": "The Cleansing",
+        "imagen": "ss_cleansing.jpg",
+        "precio": 23000
+    },
+    {
+        "id": 100,
+        "artista": "Arch Enemy",
+        "album": "Khaos Legions",
+        "imagen": "arch.jpg",
+        "precio": 28000
+    },
+    {
+        "id": 101,
+        "artista": "Testament",
+        "album": "The Legacy",
+        "imagen": "testament_legacy.jpg",
+        "precio": 24000
+    },
+    {
+        "id": 102,
+        "artista": "Testament",
+        "album": "The New Order",
+        "imagen": "testament_neworder.jpg",
+        "precio": 23000
+    },
+    {
+        "id": 103,
+        "artista": "Testament",
+        "album": "Low",
+        "imagen": "testament_low.jpg",
+        "precio": 22000
+    },
+    {
+        "id": 104,
+        "artista": "Exodus",
+        "album": "Bonded by Blood",
+        "imagen": "exodus_bonded.jpg",
+        "precio": 24000
+    },
+    {
+        "id": 105,
+        "artista": "Exodus",
+        "album": "Fabulous Disaster",
+        "imagen": "exodus_fabulous.jpg",
+        "precio": 23000
+    },
+    {
+        "id": 106,
+        "artista": "Overkill",
+        "album": "The Years of Decay",
+        "imagen": "overkill_years.jpg",
+        "precio": 23000
+    },
+    {
+        "id": 107,
+        "artista": "Overkill",
+        "album": "Horrorscope",
+        "imagen": "overkill_horrorscope.jpg",
+        "precio": 22000
+    },
+    {
+        "id": 108,
+        "artista": "Kreator",
+        "album": "Pleasure to Kill",
+        "imagen": "kreator_pleasure.jpg",
+        "precio": 24000
+    },
+    {
+        "id": 109,
+        "artista": "Kreator",
+        "album": "Coma of Souls",
+        "imagen": "kreator_coma.jpg",
+        "precio": 23000
+    },
+    {
+        "id": 110,
+        "artista": "Kreator",
+        "album": "Violent Revolution",
+        "imagen": "kreator_violent.jpg",
+        "precio": 23000
+    },
+    {
+        "id": 111,
+        "artista": "Sodom",
+        "album": "Agent Orange",
+        "imagen": "sodom_agent.jpg",
+        "precio": 23000
+    },
+    {
+        "id": 112,
+        "artista": "Destruction",
+        "album": "Infernal Overkill",
+        "imagen": "destruction_infernal.jpg",
+        "precio": 22000
+    },
+    {
+        "id": 113,
+        "artista": "Annihilator",
+        "album": "Alice in Hell",
+        "imagen": "annihilator_alice.jpg",
+        "precio": 23000
+    },
+    {
+        "id": 114,
+        "artista": "Annihilator",
+        "album": "Never, Neverland",
+        "imagen": "annihilator_never.jpg",
+        "precio": 22000
+    },
+    {
+        "id": 115,
+        "artista": "Iced Earth",
+        "album": "Something Wicked This Way Comes",
+        "imagen": "iced_wicked.jpg",
+        "precio": 25000
+    },
+    {
+        "id": 116,
+        "artista": "Iced Earth",
+        "album": "The Crucible of Man",
+        "imagen": "iced_crucible.jpg",
+        "precio": 24000
+    },
+    {
+        "id": 117,
+        "artista": "Blind Guardian",
+        "album": "Somewhere Far Beyond",
+        "imagen": "bg_somewhere.jpg",
+        "precio": 25000
+    },
+    {
+        "id": 118,
+        "artista": "Blind Guardian",
+        "album": "Imaginations from the Other Side",
+        "imagen": "bg_imaginations.jpg",
+        "precio": 26000
+    },
+    {
+        "id": 119,
+        "artista": "Blind Guardian",
+        "album": "A Night at the Opera",
+        "imagen": "bg_night.jpg",
+        "precio": 26000
+    },
+    {
+        "id": 120,
+        "artista": "Helloween",
+        "album": "Keeper of the Seven Keys Part I",
+        "imagen": "helloween_keeper1.jpg",
+        "precio": 24000
+    },
+    {
+        "id": 121,
+        "artista": "Helloween",
+        "album": "Keeper of the Seven Keys Part II",
+        "imagen": "helloween_keeper2.jpg",
+        "precio": 24000
+    },
+    {
+        "id": 122,
+        "artista": "Gamma Ray",
+        "album": "Land of the Free",
+        "imagen": "gammaray_land.jpg",
+        "precio": 23000
+    },
+    {
+        "id": 123,
+        "artista": "Gamma Ray",
+        "album": "Somewhere Out in Space",
+        "imagen": "gammaray_somewhere.jpg",
+        "precio": 22000
+    },
+    {
+        "id": 124,
+        "artista": "Stratovarius",
+        "album": "Visions",
+        "imagen": "stratovarius_visions.jpg",
+        "precio": 24000
+    },
+    {
+        "id": 125,
+        "artista": "Stratovarius",
+        "album": "Destiny",
+        "imagen": "stratovarius_destiny.jpg",
+        "precio": 23000
+    },
+    {
+        "id": 126,
+        "artista": "Hammerfall",
+        "album": "Legacy of Kings",
+        "imagen": "hammerfall_legacy.jpg",
+        "precio": 23000
+    },
+    {
+        "id": 127,
+        "artista": "Hammerfall",
+        "album": "Glory to the Brave",
+        "imagen": "hammerfall_glory.jpg",
+        "precio": 22000
+    },
+    {
+        "id": 128,
+        "artista": "Sabaton",
+        "album": "Carolus Rex",
+        "imagen": "sabaton_carolus.jpg",
+        "precio": 25000
+    },
+    {
+        "id": 129,
+        "artista": "Sabaton",
+        "album": "Heroes",
+        "imagen": "sabaton_heroes.jpg",
+        "precio": 24000
+    },
+    {
+        "id": 130,
+        "artista": "Sabaton",
+        "album": "The Last Stand",
+        "imagen": "sabaton_last.jpg",
+        "precio": 24000
+    },
+    {
+        "id": 131,
+        "artista": "Powerwolf",
+        "album": "Blood of the Saints",
+        "imagen": "powerwolf_blood.jpg",
+        "precio": 25000
+    },
+    {
+        "id": 132,
+        "artista": "Powerwolf",
+        "album": "Preachers of the Night",
+        "imagen": "powerwolf_preachers.jpg",
+        "precio": 24000
+    },
+    {
+        "id": 133,
+        "artista": "Epica",
+        "album": "The Phantom Agony",
+        "imagen": "epica_phantom.jpg",
+        "precio": 25000
+    },
+    {
+        "id": 134,
+        "artista": "Epica",
+        "album": "Design Your Universe",
+        "imagen": "epica_design.jpg",
+        "precio": 25000
+    },
+    {
+        "id": 135,
+        "artista": "Lacuna Coil",
+        "album": "Comalies",
+        "imagen": "lacunacoil_comalies.jpg",
+        "precio": 23000
+    },
+    {
+        "id": 136,
+        "artista": "Lacuna Coil",
+        "album": "Karmacode",
+        "imagen": "lacunacoil_karma.jpg",
+        "precio": 22000
+    },
+    {
+        "id": 137,
+        "artista": "Amaranthe",
+        "album": "Massive Addictive",
+        "imagen": "amaranthe_massive.jpg",
+        "precio": 23000
+    },
+    {
+        "id": 138,
+        "artista": "Amaranthe",
+        "album": "Helix",
+        "imagen": "amaranthe_helix.jpg",
+        "precio": 22000
+    },
+    {
+        "id": 139,
+        "artista": "Avatar",
+        "album": "Hail the Apocalypse",
+        "imagen": "avatar_hail.jpg",
+        "precio": 23000
+    },
+    {
+        "id": 140,
+        "artista": "Avatar",
+        "album": "Hunter Gatherer",
+        "imagen": "avatar_hunter.jpg",
+        "precio": 24000
+    },
+    {
+        "id": 141,
+        "artista": "Ghost",
+        "album": "Opus Eponymous",
+        "imagen": "ghost_opus.jpg",
+        "precio": 24000
+    },
+    {
+        "id": 142,
+        "artista": "Ghost",
+        "album": "Meliora",
+        "imagen": "ghost_meliora.jpg",
+        "precio": 25000
+    },
+    {
+        "id": 143,
+        "artista": "Ghost",
+        "album": "Prequelle",
+        "imagen": "ghost_prequelle.jpg",
+        "precio": 25000
+    },
+    {
+        "id": 144,
+        "artista": "Parkway Drive",
+        "album": "Deep Blue",
+        "imagen": "pkd_deepblue.jpg",
+        "precio": 24000
+    },
+    {
+        "id": 145,
+        "artista": "Parkway Drive",
+        "album": "Atlas",
+        "imagen": "pkd_atlas.jpg",
+        "precio": 24000
+    },
+    {
+        "id": 146,
+        "artista": "Parkway Drive",
+        "album": "Reverence",
+        "imagen": "pkd_reverence.jpg",
+        "precio": 25000
+    },
+    {
+        "id": 147,
+        "artista": "Architects",
+        "album": "All Our Gods Have Abandoned Us",
+        "imagen": "architects_gods.jpg",
+        "precio": 24000
+    },
+    {
+        "id": 148,
+        "artista": "Architects",
+        "album": "Holy Hell",
+        "imagen": "architects_holy.jpg",
+        "precio": 24000
+    },
+    {
+        "id": 149,
+        "artista": "Bring Me the Horizon",
+        "album": "Sempiternal",
+        "imagen": "bmth_sempiternal.jpg",
+        "precio": 25000
+    },
+    {
+        "id": 150,
+        "artista": "Bring Me the Horizon",
+        "album": "Count Your Blessings",
+        "imagen": "bmth_hell.jpg",
+        "precio": 24000
+    },
+    {
+        "id": 151,
+        "artista": "While She Sleeps",
+        "album": "Brainwashed",
+        "imagen": "wss_brainwashed.jpg",
+        "precio": 22000
+    },
+    {
+        "id": 152,
+        "artista": "Bullet for My Valentine",
+        "album": "The Poison",
+        "imagen": "bfmv_poison.jpg",
+        "precio": 24000
+    },
+    {
+        "id": 153,
+        "artista": "Bullet for My Valentine",
+        "album": "Scream Aim Fire",
+        "imagen": "bfmv_scream.jpg",
+        "precio": 23000
+    },
+    {
+        "id": 154,
+        "artista": "As I Lay Dying",
+        "album": "Frail Words Collapse",
+        "imagen": "aild_frail.jpg",
+        "precio": 24000
+    },
+    {
+        "id": 155,
+        "artista": "As I Lay Dying",
+        "album": "An Ocean Between Us",
+        "imagen": "aild_ocean.jpg",
+        "precio": 23000
+    },
+    {
+        "id": 156,
+        "artista": "All That Remains",
+        "album": "The Fall of Ideals",
+        "imagen": "atr_fall.jpg",
+        "precio": 23000
+    },
+    {
+        "id": 157,
+        "artista": "DevilDriver",
+        "album": "Beast",
+        "imagen": "dd_beast.jpg",
+        "precio": 23000
+    },
+    {
+        "id": 158,
+        "artista": "DevilDriver",
+        "album": "The Last Kind Words",
+        "imagen": "dd_last.jpg",
+        "precio": 22000
+    },
+    {
+        "id": 159,
+        "artista": "Shadows Fall",
+        "album": "The War Within",
+        "imagen": "sf_war.jpg",
+        "precio": 22000
+    },
+    {
+        "id": 160,
+        "artista": "Chimaira",
+        "album": "The Impossibility of Reason",
+        "imagen": "chimaira_impossibility.jpg",
+        "precio": 22000
+    },
+    {
+        "id": 161,
+        "artista": "Machine Head",
+        "album": "The Blackening",
+        "imagen": "mh_blackening.jpg",
+        "precio": 25000
+    },
+    {
+        "id": 162,
+        "artista": "Machine Head",
+        "album": "Burn My Eyes",
+        "imagen": "mh_burn.jpg",
+        "precio": 24000
+    },
+    {
+        "id": 163,
+        "artista": "Sepultura",
+        "album": "Arise",
+        "imagen": "sepultura_arise.jpg",
+        "precio": 24000
+    },
+    {
+        "id": 164,
+        "artista": "Sepultura",
+        "album": "Schizophrenia",
+        "imagen": "sepultura_schizo.jpg",
+        "precio": 23000
+    },
+    {
+        "id": 165,
+        "artista": "Soulfly",
+        "album": "Soulfly",
+        "imagen": "soulfly_self.jpg",
+        "precio": 23000
+    },
+    {
+        "id": 166,
+        "artista": "Soulfly",
+        "album": "Primitive",
+        "imagen": "soulfly_primitive.jpg",
+        "precio": 22000
+    },
+    {
+        "id": 167,
+        "artista": "Cavalera Conspiracy",
+        "album": "Inflikted",
+        "imagen": "cavalera_inflikted.jpg",
+        "precio": 23000
+    },
+    {
+        "id": 168,
+        "artista": "Obituary",
+        "album": "Slowly We Rot",
+        "imagen": "obituary_slowly.jpg",
+        "precio": 23000
+    },
+    {
+        "id": 169,
+        "artista": "Morbid Angel",
+        "album": "Blessed Are the Sick",
+        "imagen": "ma_blessed.jpg",
+        "precio": 24000
+    },
+    {
+        "id": 170,
+        "artista": "Morbid Angel",
+        "album": "Covenant",
+        "imagen": "ma_covenant.jpg",
+        "precio": 24000
+    },
+    {
+        "id": 171,
+        "artista": "Deicide",
+        "album": "Legion",
+        "imagen": "deicide_legion.jpg",
+        "precio": 23000
+    },
+    {
+        "id": 172,
+        "artista": "Nile",
+        "album": "Annihilation of the Wicked",
+        "imagen": "nile_annihilation.jpg",
+        "precio": 24000
+    },
+    {
+        "id": 173,
+        "artista": "Suffocation",
+        "album": "Pierced from Within",
+        "imagen": "suffocation_pierced.jpg",
+        "precio": 23000
+    },
+    {
+        "id": 174,
+        "artista": "Meshuggah",
+        "album": "Chaosphere",
+        "imagen": "meshuggah_chaosphere.jpg",
+        "precio": 26000
+    },
+    {
+        "id": 175,
+        "artista": "Meshuggah",
+        "album": "obZen",
+        "imagen": "meshuggah_obzen.jpg",
+        "precio": 26000
+    },
+    {
+        "id": 176,
+        "artista": "Meshuggah",
+        "album": "Koloss",
+        "imagen": "meshuggah_koloss.jpg",
+        "precio": 25000
+    },
+    {
+        "id": 177,
+        "artista": "Deftones",
+        "album": "White Pony",
+        "imagen": "deftones_white.jpg",
+        "precio": 26000
+    },
+    {
+        "id": 178,
+        "artista": "Deftones",
+        "album": "Around the Fur",
+        "imagen": "deftones_around.jpg",
+        "precio": 24000
+    },
+    {
+        "id": 179,
+        "artista": "Deftones",
+        "album": "Diamond Eyes",
+        "imagen": "deftones_diamond.jpg",
+        "precio": 25000
+    },
+    {
+        "id": 180,
+        "artista": "Korn",
+        "album": "Follow the Leader",
+        "imagen": "korn_follow.jpg",
+        "precio": 26000
+    },
+    {
+        "id": 181,
+        "artista": "Korn",
+        "album": "Issues",
+        "imagen": "korn_issues.jpg",
+        "precio": 24000
+    },
+    {
+        "id": 182,
+        "artista": "Korn",
+        "album": "Life Is Peachy",
+        "imagen": "korn_life.jpg",
+        "precio": 24000
+    },
+    {
+        "id": 183,
+        "artista": "Mudvayne",
+        "album": "L.D. 50",
+        "imagen": "mudvayne_ld50.jpg",
+        "precio": 24000
+    },
+    {
+        "id": 184,
+        "artista": "Mudvayne",
+        "album": "The End of All Things to Come",
+        "imagen": "mudvayne_end.jpg",
+        "precio": 23000
+    },
+    {
+        "id": 185,
+        "artista": "Sevendust",
+        "album": "Home",
+        "imagen": "sevendust_home.jpg",
+        "precio": 23000
+    },
+    {
+        "id": 186,
+        "artista": "Fear Factory",
+        "album": "Demanufacture",
+        "imagen": "ff_demanufacture.jpg",
+        "precio": 25000
+    },
+    {
+        "id": 187,
+        "artista": "Fear Factory",
+        "album": "Obsolete",
+        "imagen": "ff_obsolete.jpg",
+        "precio": 24000
+    },
+    {
+        "id": 188,
+        "artista": "Godsmack",
+        "album": "Awake",
+        "imagen": "godsmack_awake.jpg",
+        "precio": 23000
+    },
+    {
+        "id": 189,
+        "artista": "Godsmack",
+        "album": "IV",
+        "imagen": "godsmack_iv.jpg",
+        "precio": 22000
+    },
+    {
+        "id": 190,
+        "artista": "Volbeat",
+        "album": "Guitar Gangsters and Cadillac Blood",
+        "imagen": "volbeat_guitar.jpg",
+        "precio": 23000
+    },
+    {
+        "id": 191,
+        "artista": "Volbeat",
+        "album": "Rock the Rebel Metal the Devil",
+        "imagen": "volbeat_seal.jpg",
+        "precio": 22000
+    },
+    {
+        "id": 192,
+        "artista": "Trivium",
+        "album": "Ember to Inferno",
+        "imagen": "trivium_ember.jpg",
+        "precio": 22000
+    },
+    {
+        "id": 193,
+        "artista": "Trivium",
+        "album": "In Waves",
+        "imagen": "trivium_waves.jpg",
+        "precio": 23000
+    },
+    {
+        "id": 194,
+        "artista": "Gojira",
+        "album": "L'Enfant Sauvage",
+        "imagen": "gojira_enfant.jpg",
+        "precio": 26000
+    },
+    {
+        "id": 195,
+        "artista": "Opeth",
+        "album": "Morningrise",
+        "imagen": "opeth_morningrise.jpg",
+        "precio": 26000
+    },
+    {
+        "id": 196,
+        "artista": "Opeth",
+        "album": "Still Life",
+        "imagen": "opeth_stilllife.jpg",
+        "precio": 27000
+    },
+    {
+        "id": 197,
+        "artista": "Cattle Decapitation",
+        "album": "Monolith of Inhumanity",
+        "imagen": "cd_monolith.jpg",
+        "precio": 24000
+    },
+    {
+        "id": 198,
+        "artista": "Drowning Pool",
+        "album": "Desensitized",
+        "imagen": "drowning.jpg",
+        "precio": 23000
+    },
+    {
+        "id": 199,
+        "artista": "Hydrogyn",
+        "album": "Bombshell",
+        "imagen": "hydrogyn.jpg",
+        "precio": 22000
+    },
+    {
+        "id": 200,
+        "artista": "Exodus",
+        "album": "Pleasures of the Flesh",
+        "imagen": "exodus.jpg",
+        "precio": 23000
+    },
+    {
+        "id": 201,
+        "artista": "Kreator",
+        "album": "Enemy of God",
+        "imagen": "kreator.jpg",
+        "precio": 24000
+    },
+    {
+        "id": 202,
+        "artista": "Pantera",
+        "album": "The Great Southern Trendkill",
+        "imagen": "pantera.jpg",
+        "precio": 26000
+    },
+    {
+        "id": 203,
+        "artista": "Slayer",
+        "album": "Divine Intervention",
+        "imagen": "slayer.jpg",
+        "precio": 24000
+    },
+    {
+        "id": 204,
+        "artista": "Sepultura",
+        "album": "Beneath the Remains",
+        "imagen": "sepultura.jpg",
+        "precio": 24000
+    },
+    {
+        "id": 205,
+        "artista": "Testament",
+        "album": "The Gathering",
+        "imagen": "testament.jpg",
+        "precio": 24000
+    },
+    {
+        "id": 206,
+        "artista": "Atrocity",
+        "album": "Werk 80",
+        "imagen": "atrocity.jpg",
+        "precio": 23000
+    },
+    {
+        "id": 207,
+        "artista": "Judas Priest",
+        "album": "Defenders of the Faith",
+        "imagen": "judas.jpg",
+        "precio": 24000
+    },
+    {
+        "id": 208,
+        "artista": "Kissin' Dynamite",
+        "album": "Ecstasy",
+        "imagen": "kissin.jpg",
+        "precio": 22000
+    },
+    {
+        "id": 209,
+        "artista": "White Zombie",
+        "album": "Supersexy Swingin' Sounds",
+        "imagen": "white_zombie.jpg",
+        "precio": 25000
+    },
+    {
+        "id": 210,
+        "artista": "Saxon",
+        "album": "Innocence Is No Excuse",
+        "imagen": "saxon.jpg",
+        "precio": 22000
+    },
+    {
+        "id": 211,
+        "artista": "Nachtmahr",
+        "album": "Veni Vidi Vici",
+        "imagen": "nachtmahr.jpg",
+        "precio": 22000
+    },
+    {
+        "id": 212,
+        "artista": "Type O Negative",
+        "album": "Bloody Kisses",
+        "imagen": "type.jpg",
+        "precio": 25000
+    },
+    {
+        "id": 213,
+        "artista": "Steel Panther",
+        "album": "Balls Out",
+        "imagen": "steel.jpg",
+        "precio": 23000
+    },
+    {
+        "id": 214,
+        "artista": "Six Feet Under",
+        "album": "Unborn",
+        "imagen": "six.jpg",
+        "precio": 23000
+    },
+    {
+        "id": 215,
+        "artista": "Rob Zombie",
+        "album": "Mondo Sex Head",
+        "imagen": "rob.jpg",
+        "precio": 25000
+    },
+    {
+        "id": 216,
+        "artista": "Ratt",
+        "album": "Out of the Cellar",
+        "imagen": "ratt.jpg",
+        "precio": 22000
+    },
+    {
+        "id": 217,
+        "artista": "The Pretty Reckless",
+        "album": "Going to Hell",
+        "imagen": "pretty.jpg",
+        "precio": 22000
+    },
+    {
+        "id": 218,
+        "artista": "Original Sin",
+        "album": "Sin Will Find You Out",
+        "imagen": "original.jpg",
+        "precio": 21000
+    },
+    {
+        "id": 219,
+        "artista": "Lee Aaron",
+        "album": "Call of the Wild",
+        "imagen": "lee.jpg",
+        "precio": 22000
+    },
+    {
+        "id": 220,
+        "artista": "Legs Diamond",
+        "album": "Town Bad Girl",
+        "imagen": "legs.jpg",
+        "precio": 21000
+    },
+    {
+        "id": 221,
+        "artista": "Hellcats",
+        "album": "Warrior Princess",
+        "imagen": "hellcats.jpg",
+        "precio": 21000
+    },
+    {
+        "id": 222,
+        "artista": "Hinder",
+        "album": "Extreme Behavior",
+        "imagen": "hinder.jpg",
+        "precio": 22000
+    },
+    {
+        "id": 223,
+        "artista": "Great White",
+        "album": "Hooked",
+        "imagen": "great.jpg",
+        "precio": 22000
+    },
+    {
+        "id": 224,
+        "artista": "Campa",
+        "album": "Architecture Of Decay",
+        "imagen": "campa.jpg",
+        "precio": 21000
+    },
+    {
+        "id": 225,
+        "artista": "Cradle of Filth",
+        "album": "Cruelty and the Beast",
+        "imagen": "craddle.jpg",
+        "precio": 21000
+    },
+    {
+        "id": 226,
+        "artista": "Scorpions",
+        "album": "Love at First Sting",
+        "imagen": "scorpions.jpg",
+        "precio": 21000
+    },
+    {
+        "id": 227,
+        "artista": "Halestorm",
+        "album": "Vicious",
+        "imagen": "halestorm.jpg",
+        "precio": 21000
+    },
+    {
+        "id": 228,
+        "artista": "In This Moment",
+        "album": "Black Widow",
+        "imagen": "inthismoment.jpg",
+        "precio": 21000
+    },
+    {
+        "id": 229,
+        "artista": "Hydrogyn",
+        "album": "Deadly Passions",
+        "imagen": "hydrogyn2.jpg",
+        "precio": 21000
+    },
+    {
+        "id": 230,
+        "artista": "Meat Loaf",
+        "album": "Bad Attitude",
+        "imagen": "meatloaf.jpg",
+        "precio": 21000
+    },
+    {
+        "id": 231,
+        "artista": "Newman",
+        "album": "The Art Of Balance",
+        "imagen": "newman.jpg",
+        "precio": 21000
+    },
+    {
+        "id": 232,
+        "artista": "Nazareth",
+        "album": "The Catch",
+        "imagen": "nazareth.jpg",
+        "precio": 21000
+    },
+    {
+        "id": 233,
+        "artista": "Heavenly",
+        "album": "Carpem Diem",
+        "imagen": "heavenly.jpg",
+        "precio": 21000
+    },
+    {
+        "id": 234,
+        "artista": "Desert Dance",
+        "album": "Open Secrets",
+        "imagen": "desertdance.jpg",
+        "precio": 21000
+    },
+    {
+        "id": 235,
+        "artista": "Nelson",
+        "album": "Peace Out",
+        "imagen": "nelson.jpg",
+        "precio": 21000
+    },
+    {
+        "id": 236,
+        "artista": "Vixen",
+        "album": "Rare Vinatge",
+        "imagen": "vixen.jpg",
+        "precio": 21000
+    },
+    {
+        "id": 237,
+        "artista": "Rollins Band",
+        "album": "Nice",
+        "imagen": "rollinsband.jpg",
+        "precio": 21000
+    },
+    {
+        "id": 238,
+        "artista": "Mystica Girls",
+        "album": "Veronica, The Courtesan from Hell",
+        "imagen": "mystica_girls.jpg",
+        "precio": 21000
+    },
+    {
+        "id": 239,
+        "artista": "Queens of the Stone Age",
+        "album": "Queens of the Stone Age",
+        "imagen": "queensofthestoneage.jpg",
+        "precio": 21000
+    },
+    {
+        "id": 240,
+        "artista": "The Strokes",
+        "album": "Is This It",
+        "imagen": "thestrokes.jpg",
+        "precio": 21000
+    },
+    {
+        "id": 241,
+        "artista": "Red Hot Chili Peppers",
+        "album": "Mother's Milk",
+        "imagen": "redhotchilipeppers.jpg",
+        "precio": 21000
+    },
+    {
+        "id": 242,
+        "artista": "Pulp",
+        "album": "This Is Hardcore",
+        "imagen": "pulp.jpg",
+        "precio": 21000
+    },
+    {
+        "id": 243,
+        "artista": "Atreyu",
+        "album": "The Curse",
+        "imagen": "atreyu.jpg",
+        "precio": 21000
+    },
+    {
+        "id": 244,
+        "artista": "Slaughter",
+        "album": "Stick It to Ya",
+        "imagen": "slaughter.jpg",
+        "precio": 21000
+    },
+    {
+        "id": 245,
+        "artista": "The Atomic Bitchwax",
+        "album": "3",
+        "imagen": "theatomicbitchwax.jpg",
+        "precio": 21000
+    },
+    {
+        "id": 246,
+        "artista": "Soil",
+        "album": "Picture Perfect",
+        "imagen": "soil.jpg",
+        "precio": 21000
+    },
+    {
+        "id": 247,
+        "artista": "In This Moment",
+        "album": "Blood",
+        "imagen": "inthismoment2.jpg",
+        "precio": 21000
+    },
+    {
+        "id": 248,
+        "artista": "Bad Wolves",
+        "album": "N.A.T.I.O.N.",
+        "imagen": "badwolves.jpg",
+        "precio": 21000
+    },
+    {
+        "id": 249,
+        "artista": "Jurojin",
+        "album": "The Living Measure Of Time",
+        "imagen": "jurojin.jpg",
+        "precio": 21000
+    },
+    {
+        "id": 250,
+        "artista": "Barbe-Q-Barbies",
+        "album": "Breaking All The Rules",
+        "imagen": "barbe-q-barbies.jpg",
+        "precio": 21000
+    }
+]
